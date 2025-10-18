@@ -10,7 +10,7 @@ A fully-featured, interactive quiz application built with React that delivers a 
 
 ## 🚀 Live Demo
 
-**Deployed Application**: [Live Demo Link](https://your-app-url.netlify.app) _(Update after deployment)_
+**Deployed Application**: [Live Demo Link](https://ashutosh-rana-quiz-app.netlify.app/)
 
 ---
 
